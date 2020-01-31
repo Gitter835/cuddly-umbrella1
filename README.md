@@ -1,4 +1,4 @@
-# hello ITdigital
+# hello ITdigital and Gitters
 
 In this GitHub repository you will find everything used to create our binder repository.
 
